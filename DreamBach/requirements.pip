@@ -1,0 +1,4 @@
+torch
+numpy
+tqdm
+music21==5.5.0
